@@ -1,4 +1,4 @@
-![Header](https://github.com/ivancosta1/ivancosta1/blob/main/assets/NoPath-Copy-8.png)
+![Header](https://github.com/ivancosta1/ivancosta1/blob/main/assets/qa%20pic.jpg)
 
 About me
 
