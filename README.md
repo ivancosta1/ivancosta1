@@ -10,4 +10,5 @@
 ![YouTrack](https://img.shields.io/badge/-YouTrack-violet?style=for-the-badge&logo=YouTrack&logoColor=red)
 ![Qase](https://img.shields.io/badge/-Qase-161F38?style=for-the-badge&logo=Qase&logoColor=white)
 
-Follow me 
+### Follow me 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/ivan-constantinov)
